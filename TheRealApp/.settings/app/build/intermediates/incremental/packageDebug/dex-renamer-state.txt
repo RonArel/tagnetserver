@@ -1,0 +1,7 @@
+#Sat Aug 12 01:05:30 PDT 2017
+base.0=C\:\\Users\\Ortel\\Desktop\\TheRealApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_77b650553dd10970b569960b1f39648c66078e99
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Ortel\\Desktop\\TheRealApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_35940d19c90163a9e3fe3ddd2bbff08c5c7c2400\\classes.dex
+base.1=C\:\\Users\\Ortel\\Desktop\\TheRealApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_35940d19c90163a9e3fe3ddd2bbff08c5c7c2400
+file.0=C\:\\Users\\Ortel\\Desktop\\TheRealApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_77b650553dd10970b569960b1f39648c66078e99\\classes.dex
